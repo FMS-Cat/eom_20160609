@@ -5,7 +5,7 @@
 JavaScript, WebGL, Raymarcher, Pathtracer  
 
 [Everyday One Motion](http://motions.work/motion/262)  
-[Demo Page](http://fms-cat.github.io/eom_20160609)  
+[Demo Page](http://fms-cat.github.io/eom_20160609/dist)  
 
 ## モンテカルロ法の2D解説
 
