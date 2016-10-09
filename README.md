@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160609 "Metal IFS, Glowing Metaball"  
+# Everyday One Motion - 20160609  
+
+"Metal IFS, Glowing Metaball"  
 
 ![](20160609.gif)  
 
 JavaScript, WebGL, Raymarcher, Pathtracer  
 
 [Everyday One Motion](http://motions.work/motion/262)  
-[Demo Page](http://fms-cat.github.io/eom_20160609/dist)  
+[Demo Page](http://fms-cat-eom.github.io/20160609/dist)  
 
 ## モンテカルロ法の2D解説
 
